@@ -200,3 +200,11 @@ Received Import Request.
 Start importing Assets/layer2.terrainlayer using Guid(c3acf3c01c2401440953d8a767301403) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'a26c3cb05ad106f8c4e9362262cd0630') in 0.056476 seconds
 Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
 
+========================================================================
+Received Import Request.
+  Time since last request: 3.098375 seconds.
+  path: Assets/NewLayer.terrainlayer
+  artifactKey: Guid(89cf7a3e50b2eeb44991622718eea618) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NewLayer.terrainlayer using Guid(89cf7a3e50b2eeb44991622718eea618) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '4f2e156008f0a0abb6bf0a9602ea7b8a') in 0.0018469 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
