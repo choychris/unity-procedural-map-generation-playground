@@ -2,7 +2,7 @@
 
 Prototype playground for procedural generation of Don't Starve-like world map, using Voronoi diagram.
 
-![alt text](reault.png?raw=true)
+![alt text](https://github.com/choychris/unity-procedural-map-generation-playground/blob/master/result.png?raw=true)
 
 #### Library used
 
